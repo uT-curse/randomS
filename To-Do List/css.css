@@ -1,0 +1,34 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-size: large;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+body {
+    background-color: darkgray;
+}
+
+input {
+    margin: auto;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 10px;
+}
+
+ul {
+    text-decoration: none;
+    list-style-type: none;
+    width: 46em;
+}
+
+li {
+    background-color: lightslategrey;
+    color: white;
+    margin-bottom: 2px;
+    padding: 8px;
+    border-radius: 5px;
+    margin-left: 280px;
+}
